@@ -1,4 +1,4 @@
-HR Analytics: Exploratory Data Analysis and Clustering
+HR Analytics: Exploratory Data Analysis and Clustering -
 This project focuses on HR Analytics to uncover valuable insights into employee behavior, satisfaction, performance, and retention using Exploratory Data Analysis (EDA) and Machine Learning techniques. By analyzing a comprehensive dataset, the project aims to assist organizations in making data-driven decisions to enhance workforce management and engagement.
 
 Key Features
